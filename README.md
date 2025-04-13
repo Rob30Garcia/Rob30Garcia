@@ -1,8 +1,7 @@
 ### Robert Garcia 
 
 ## I'm a Developer!
-- 🔭 I'm currently working on my personal projects
-- 🌳 I'm currently learning react native
+- 🔭 I'm currently working in mobile and machine learning.
 
 ## Connect with me:
 [<img align="left" alt="bughackers.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,5 +13,5 @@
 
 [website]: http://bughackers.org/
 [youtube]: https://www.youtube.com/channel/UCyjh0dAR0Qjg-MPuH2qWPAg
-[instagram]: https://www.instagram.com/robertgs3011/
+[instagram]: https://www.instagram.com/hrod.garcia/
 [linkedin]: https://www.linkedin.com/in/robert-garcia-37a346199/
